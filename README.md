@@ -11,7 +11,7 @@ import java.util.Scanner;
 Scanner input=new Scanner(System.in);
 ```
 
--->唯一可变的就是**`input`**t变量名！
+-->唯一可变的就是```input```变量名！
 
 ### 第三步：通过Scanner对象来调用Scanner类中的方法，用于获取
 
