@@ -1,4 +1,4 @@
-第一步:`在有效代码的第一行`，通过import导入Scanner类
+第一步:在有效代码的第一行，通过import导入Scanner类
 
 ```java
 import java.util.Scanner;
