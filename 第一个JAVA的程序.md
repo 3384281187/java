@@ -20,9 +20,9 @@ public class HelloWorld{
 public class HelloWorld//HelloWorld就是你的文件名，你对这个Java文件起的什么名字这里就是你文件的名字
 ```
 
-其中**`Helloworld`**就是你所创建Java的文件名
+其中`Helloworld`就是你所创建Java的文件名
 
-而**`public class`**就是第一段的关键字一般来说是不会改变的
+而`public class`就是第一段的关键字一般来说是不会改变的
 
 #### 第二段代码
 
@@ -47,6 +47,6 @@ public class HelloWorld{
 System.out.println("Hello world");
 ```
 
-**`System.out.println()`**
+`System.out.println()`
 
 这就是输出的格式，输出内容放在括号内就行
