@@ -57,3 +57,22 @@ String i=input.nextLine();
 ```
 
 -->当用户输入内容并敲回车是，获取一整行的内容！
+
+
+完整形式：
+
+```java
+package boring;
+import java.util.Scanner;
+
+public class moban
+{
+    public static void main(String[] args)
+    {
+        Scanner input=new Scanner(System.in);
+        int a=input.nextInt();
+        System.out.println(a);
+    }
+}
+```
+
