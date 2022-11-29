@@ -60,7 +60,6 @@ String i=input.nextLine();
 
 
 完整形式：
-
 ```java
 package boring;
 import java.util.Scanner;
